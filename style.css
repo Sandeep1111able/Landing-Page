@@ -129,6 +129,24 @@ header{
     color: #1F2937;
 }
 
+.testomonial-box{
+    background-color: #E5E7EB;
+    padding: 80px 550px 50px;
+}
+
+.testomonial{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    text-align: left;
+}
+
+.author{
+    text-align: right;
+    font-weight: 900;
+    font-size: 20px;
+}
+
 
 
 
