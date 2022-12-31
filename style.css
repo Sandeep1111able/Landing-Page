@@ -147,6 +147,37 @@ header{
     font-size: 20px;
 }
 
+.cta{
+padding: 80px 500px;
+background-color: #fff;
+color: #F9FAF8;
+}
+
+.cta-box{
+    background-color: #3882F6;
+    display: flex;
+    padding: 25px 100px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-btn{
+    border: 2px #fff solid;
+}
+
+.cta-btn:hover{
+    border: 2px #E5E7EB solid;
+    color: #E5E7EB;
+}
+
+.text{
+    font-weight: 900;
+}
+
+.subtext{
+    font-size: 14px;
+}
 
 
 
